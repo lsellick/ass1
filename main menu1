@@ -6,12 +6,36 @@
     <div data-role="navbar">
       <ul>
         <li>
+          <a href="#Menu">Our Menu</a>
+        </li>
+      </ul>
+    </div>
+    <div data-role="navbar">
+      <ul>
+        <li>
           <a href="#Contact">Contact Us</a>
         </li>
         <li>
-          <a href="#Developer">menu</a>
+          <a>Feedback</a>
         </li>
       </ul>
+    </div>
+    <div data-role="navbar">
+      <ul>
+        <li>
+          <a>About us</a>
+        </li>
+        <li>
+          <a>About the dev</a>
+        </li>
+      </ul>
+    </div>
+    <div class="ui-grid-b" style="height:95px">
+      <div class="ui-block-a" style="height:100%"></div>
+      <div class="ui-block-b" style="height:100%">
+        <img style="width:100%;" src="http://ezoui.com/images/image.png" is="image">
+      </div>
+      <div class="ui-block-c" style="height:100%"></div>
     </div>
   </div>
   <div data-role="footer" data-position="fixed">
